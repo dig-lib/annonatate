@@ -1,0 +1,29 @@
+---
+canvas: "https://dig-lib.github.io/annonatate/images/menu_NLR.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Crown",
+            "purpose": "describing",
+            "creator": {
+                "id": "dig-lib",
+                "name": "dig_librarian"
+            },
+            "created": "2021-07-15T13:33:47.216Z",
+            "modified": "2021-07-15T13:33:52.334Z"
+        }
+    ],
+    "target": {
+        "source": "https://dig-lib.github.io/annonatate/images/menu_NLR.jpg",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"359.9093933105469,668.3265991210938 648.489501953125,679.6434936523438 707.9031982421875,416.5262451171875 492.8825988769531,224.1396026611328 277.86224365234375,430.67242431640625 292.0082702636719,475.93994140625 289.88629150390625,475.2325134277344\"></polygon></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "{{site.url}}{{site.baseurl}}/annotations/41042cac-e99a-41a5-8bcf-f52363bff515.json"
+}
