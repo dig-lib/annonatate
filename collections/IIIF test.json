@@ -3,5 +3,12 @@
 {
     "label": "IIIF test",
     "type": "storyboardlist",
-    "items": []
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://dig-lib.github.io/annonatate/annotations/menu-nlr-jpg-list.json'></iiif-storyboard>",
+            "title": "menu",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
 }
